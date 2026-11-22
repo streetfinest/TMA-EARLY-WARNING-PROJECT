@@ -1,0 +1,151 @@
+District key,Region code,Region,District code,District,Councils,Ward/shehia records
+0101,01,Dodoma,01,Kondoa,2,29
+0102,01,Dodoma,02,Mpwapwa,1,33
+0103,01,Dodoma,03,Kongwa,1,22
+0104,01,Dodoma,04,Chamwino,1,36
+0105,01,Dodoma,05,Dodoma,1,41
+0106,01,Dodoma,06,Bahi,1,22
+0107,01,Dodoma,07,Chemba,1,26
+0201,02,Arusha,01,Monduli,1,20
+0202,02,Arusha,02,Arumeru,2,53
+0203,02,Arusha,03,Longido,1,18
+0204,02,Arusha,04,Karatu,1,14
+0205,02,Arusha,05,Ngorongoro,1,28
+0206,02,Arusha,06,Arusha,1,25
+0301,03,Kilimanjaro,01,Rombo,1,28
+0302,03,Kilimanjaro,02,Mwanga,1,20
+0303,03,Kilimanjaro,03,Same,1,34
+0304,03,Kilimanjaro,04,Moshi,2,53
+0305,03,Kilimanjaro,05,Hai,1,17
+0306,03,Kilimanjaro,06,Siha,1,17
+0401,04,Tanga,01,Lushoto,2,51
+0402,04,Tanga,02,Korogwe,2,40
+0403,04,Tanga,03,Muheza,1,37
+0404,04,Tanga,04,Tanga,1,27
+0405,04,Tanga,05,Pangani,1,14
+0406,04,Tanga,06,Handeni,2,33
+0407,04,Tanga,07,Kilindi,1,21
+0408,04,Tanga,08,Mkinga,1,22
+0501,05,Morogoro,01,Kilosa,1,40
+0502,05,Morogoro,02,Morogoro,2,60
+0503,05,Morogoro,03,Kilombero,2,35
+0504,05,Morogoro,04,Ulanga,1,21
+0505,05,Morogoro,05,Malinyi,1,10
+0506,05,Morogoro,06,Mvomero,1,30
+0507,05,Morogoro,07,Gairo,1,18
+0601,06,Pwani,01,Bagamoyo,2,26
+0602,06,Pwani,02,Kibaha,2,28
+0603,06,Pwani,03,Kisarawe,1,17
+0604,06,Pwani,04,Mkuranga,1,25
+0605,06,Pwani,05,Rufiji,1,13
+0606,06,Pwani,06,Mafia,1,8
+0607,06,Pwani,07,Kibiti,1,16
+0701,07,Dar es Salaam,01,Kinondoni,1,20
+0702,07,Dar es Salaam,02,Ilala,1,36
+0703,07,Dar es Salaam,03,Temeke,1,23
+0704,07,Dar es Salaam,04,Kigamboni,1,9
+0705,07,Dar es Salaam,05,Ubungo,1,14
+0801,08,Lindi,01,Kilwa,1,23
+0802,08,Lindi,02,Lindi,2,51
+0803,08,Lindi,03,Nachingwea,1,36
+0804,08,Lindi,04,Liwale,1,20
+0805,08,Lindi,05,Ruangwa,1,22
+0901,09,Mtwara,01,Mtwara,3,56
+0902,09,Mtwara,02,Newala,2,38
+0903,09,Mtwara,03,Masasi,2,48
+0904,09,Mtwara,04,Tandahimba,1,32
+0905,09,Mtwara,05,Nanyumbu,1,17
+1001,10,Ruvuma,01,Tunduru,1,39
+1002,10,Ruvuma,02,Songea,3,45
+1003,10,Ruvuma,03,Mbinga,2,48
+1004,10,Ruvuma,04,Nyasa,1,20
+1005,10,Ruvuma,05,Namtumbo,1,21
+1101,11,Iringa,01,Iringa,2,46
+1102,11,Iringa,02,Mufindi,2,36
+1103,11,Iringa,03,Kilolo,1,24
+1201,12,Mbeya,01,Chunya,1,20
+1202,12,Mbeya,02,Mbeya,2,64
+1203,12,Mbeya,03,Kyela,1,33
+1204,12,Mbeya,04,Rungwe,2,42
+1205,12,Mbeya,05,Mbarali,1,20
+1301,13,Singida,01,Iramba,1,20
+1302,13,Singida,02,Singida,2,39
+1303,13,Singida,03,Manyoni,2,32
+1304,13,Singida,04,Ikungi,1,28
+1305,13,Singida,05,Mkalama,1,17
+1401,14,Tabora,01,Nzega,2,46
+1402,14,Tabora,02,Igunga,1,35
+1403,14,Tabora,03,Uyui,1,30
+1404,14,Tabora,04,Urambo,1,18
+1405,14,Tabora,05,Sikonge,1,20
+1406,14,Tabora,06,Tabora,1,29
+1407,14,Tabora,07,Kaliua,1,28
+1501,15,Rukwa,01,Kalambo,1,23
+1502,15,Rukwa,02,Sumbawanga,2,46
+1503,15,Rukwa,03,Nkasi,1,28
+1601,16,Kigoma,01,Kibondo,1,19
+1602,16,Kigoma,02,Kasulu,2,36
+1603,16,Kigoma,03,Kigoma,2,35
+1604,16,Kigoma,04,Uvinza,1,16
+1605,16,Kigoma,05,Buhigwe,1,20
+1606,16,Kigoma,06,Kakonko,1,13
+1701,17,Shinyanga,01,Kahama,3,58
+1702,17,Shinyanga,02,Kishapu,1,29
+1703,17,Shinyanga,03,Shinyanga,2,43
+1801,18,Kagera,01,Karagwe,1,23
+1802,18,Kagera,02,Bukoba,2,43
+1803,18,Kagera,03,Muleba,1,43
+1804,18,Kagera,04,Biharamulo,1,17
+1805,18,Kagera,05,Ngara,1,22
+1806,18,Kagera,06,Kyerwa,1,24
+1807,18,Kagera,07,Missenyi,1,20
+1901,19,Mwanza,01,Ukerewe,1,25
+1902,19,Mwanza,02,Magu,1,25
+1903,19,Mwanza,03,Nyamagana,1,18
+1904,19,Mwanza,04,Kwimba,1,30
+1905,19,Mwanza,05,Sengerema,2,47
+1906,19,Mwanza,06,Ilemela,1,19
+1907,19,Mwanza,07,Misungwi,1,27
+2001,20,Mara,01,Tarime,2,34
+2002,20,Mara,02,Serengeti,1,30
+2003,20,Mara,03,Musoma,2,37
+2004,20,Mara,04,Bunda,2,33
+2005,20,Mara,05,Butiama,1,18
+2006,20,Mara,06,Rorya,1,26
+2101,21,Manyara,01,Babati,2,33
+2102,21,Manyara,02,Hanang,1,33
+2103,21,Manyara,03,Mbulu,2,35
+2104,21,Manyara,04,Simanjiro,1,18
+2105,21,Manyara,05,Kiteto,1,23
+2201,22,Njombe,01,Njombe,3,37
+2202,22,Njombe,02,Ludewa,1,26
+2203,22,Njombe,03,Makete,1,23
+2204,22,Njombe,04,Wanging'ombe,1,21
+2301,23,Katavi,01,Mpanda,2,27
+2302,23,Katavi,02,Tanganyika,1,16
+2303,23,Katavi,03,Mlele,2,15
+2401,24,Simiyu,01,Bariadi,2,31
+2402,24,Simiyu,02,Itilima,1,22
+2403,24,Simiyu,03,Meatu,1,29
+2404,24,Simiyu,04,Maswa,1,36
+2405,24,Simiyu,05,Busega,1,15
+2501,25,Geita,01,Geita,2,50
+2502,25,Geita,02,Nyang'hwale,1,15
+2503,25,Geita,03,Mbogwe,1,17
+2504,25,Geita,04,Bukombe,1,17
+2505,25,Geita,05,Chato,1,23
+2601,26,Songwe,01,Momba,2,29
+2602,26,Songwe,02,Songwe,1,18
+2603,26,Songwe,03,Mbozi,1,29
+2604,26,Songwe,04,Ileje,1,18
+5101,51,Kaskazini Unguja,01,Kaskazini A,1,44
+5102,51,Kaskazini Unguja,02,Kaskazini B,1,31
+5201,52,Kusini Unguja,01,Kati,1,42
+5202,52,Kusini Unguja,02,Kusini,1,21
+5301,53,Mjini Magharibi,01,Mjini,1,56
+5302,53,Mjini Magharibi,02,Magharibi A,1,31
+5303,53,Mjini Magharibi,03,Magharibi B,1,34
+5401,54,Kaskazini Pemba,01,Wete,1,36
+5402,54,Kaskazini Pemba,02,Micheweni,1,25
+5501,55,Kusini Pemba,01,Chake Chake,1,32
+5502,55,Kusini Pemba,02,Mkoani,1,36
