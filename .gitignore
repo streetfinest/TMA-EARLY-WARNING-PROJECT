@@ -1,23 +1,20 @@
-.direnv/
-.venv/
-.ipynb_checkpoints/
 __pycache__/
-*.py[cod]
 .pytest_cache/
-.ruff_cache/
-.DS_Store
-
-# Private partner data and notebooks must never be published without approval.
-private/
-confidential/
-industry/private/
-projects/private/
-projects/**/private/
-data/private/
-data/raw/
-data/processed/
-data/synthetic_daily_temperature.csv
-data/synthetic_insurance_claims.csv
+.ipynb_checkpoints/
+*.py[cod]
+.venv/
+venv/
 .env
-.env.*
-!.envrc
+.DS_Store
+Thumbs.db
+.jupyter/
+.coverage
+htmlcov/
+# Archive retained locally for full provenance; not published to GitHub.
+data/raw/*
+!data/raw/.gitkeep
+# Generated tables, figures and forecasts
+outputs/**/*.csv
+outputs/**/*.png
+outputs/**/*.json
+!outputs/**/.gitkeep
